@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProjectAICP.Properties
+namespace SPOAICP.Properties
 {
 
 
