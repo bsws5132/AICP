@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SPOAICP
 {
-    public partial class SearchResultForm : Form
+    public partial class SearchResultForm : MetroFramework.Forms.MetroForm
     {
         MainForm cachedMainform;
         

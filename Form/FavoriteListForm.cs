@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SPOAICP
 {
-    public partial class FavoriteListForm : Form
+    public partial class FavoriteListForm : MetroFramework.Forms.MetroForm
     {
 
         MainForm cachedmainForm;

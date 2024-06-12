@@ -43,7 +43,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.textBox1.Location = new System.Drawing.Point(217, 170);
+            this.textBox1.Location = new System.Drawing.Point(271, 173);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(150, 27);
             this.textBox1.TabIndex = 0;
@@ -51,7 +51,7 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.textBox2.Location = new System.Drawing.Point(426, 170);
+            this.textBox2.Location = new System.Drawing.Point(480, 173);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(150, 27);
             this.textBox2.TabIndex = 1;
@@ -59,7 +59,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.button1.Location = new System.Drawing.Point(296, 244);
+            this.button1.Location = new System.Drawing.Point(350, 247);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(196, 44);
             this.button1.TabIndex = 2;
@@ -71,7 +71,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.label1.Location = new System.Drawing.Point(592, 24);
+            this.label1.Location = new System.Drawing.Point(557, 24);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(43, 20);
             this.label1.TabIndex = 3;
@@ -81,7 +81,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.label2.Location = new System.Drawing.Point(255, 145);
+            this.label2.Location = new System.Drawing.Point(309, 148);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(63, 20);
             this.label2.TabIndex = 4;
@@ -91,7 +91,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.label3.Location = new System.Drawing.Point(475, 145);
+            this.label3.Location = new System.Drawing.Point(529, 148);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 20);
             this.label3.TabIndex = 5;
@@ -103,9 +103,9 @@
             this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.즐겨찾기ToolStripMenuItem,
             this.검색기록ToolStripMenuItem});
-            this.menuStrip2.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip2.Location = new System.Drawing.Point(20, 60);
             this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Size = new System.Drawing.Size(135, 450);
+            this.menuStrip2.Size = new System.Drawing.Size(135, 370);
             this.menuStrip2.TabIndex = 7;
             this.menuStrip2.Text = "menuStrip2";
             // 
@@ -127,8 +127,7 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(839, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -138,7 +137,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.menuStrip2);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "APICP";
             this.menuStrip2.ResumeLayout(false);
             this.menuStrip2.PerformLayout();
             this.ResumeLayout(false);

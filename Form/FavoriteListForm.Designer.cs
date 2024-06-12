@@ -43,7 +43,7 @@
             // 
             this.AlbumInfoLabel.AutoSize = true;
             this.AlbumInfoLabel.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.AlbumInfoLabel.Location = new System.Drawing.Point(676, 362);
+            this.AlbumInfoLabel.Location = new System.Drawing.Point(685, 122);
             this.AlbumInfoLabel.Name = "AlbumInfoLabel";
             this.AlbumInfoLabel.Size = new System.Drawing.Size(180, 20);
             this.AlbumInfoLabel.TabIndex = 0;
@@ -54,7 +54,7 @@
             this.FavoriteListbox.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
             this.FavoriteListbox.FormattingEnabled = true;
             this.FavoriteListbox.ItemHeight = 20;
-            this.FavoriteListbox.Location = new System.Drawing.Point(164, 98);
+            this.FavoriteListbox.Location = new System.Drawing.Point(20, 122);
             this.FavoriteListbox.Name = "FavoriteListbox";
             this.FavoriteListbox.ScrollAlwaysVisible = true;
             this.FavoriteListbox.Size = new System.Drawing.Size(262, 444);
@@ -63,7 +63,7 @@
             // pbxAlbumImage
             // 
             this.pbxAlbumImage.Image = ((System.Drawing.Image)(resources.GetObject("pbxAlbumImage.Image")));
-            this.pbxAlbumImage.Location = new System.Drawing.Point(619, 35);
+            this.pbxAlbumImage.Location = new System.Drawing.Point(351, 158);
             this.pbxAlbumImage.Name = "pbxAlbumImage";
             this.pbxAlbumImage.Size = new System.Drawing.Size(300, 300);
             this.pbxAlbumImage.TabIndex = 2;
@@ -73,7 +73,7 @@
             // 
             this.TitleLabel.AutoSize = true;
             this.TitleLabel.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.TitleLabel.Location = new System.Drawing.Point(169, 75);
+            this.TitleLabel.Location = new System.Drawing.Point(23, 99);
             this.TitleLabel.Name = "TitleLabel";
             this.TitleLabel.Size = new System.Drawing.Size(122, 20);
             this.TitleLabel.TabIndex = 3;
@@ -84,9 +84,9 @@
             this.menuStrip1.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.메인화면으로돌아가기ToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(20, 60);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1070, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1030, 28);
             this.menuStrip1.TabIndex = 4;
             this.menuStrip1.Text = "menuStrip1";
             // 

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SPOAICP
 {
-    public partial class SearchLogForm : Form
+    public partial class SearchLogForm : MetroFramework.Forms.MetroForm
     {
         public SearchLogForm()
         {

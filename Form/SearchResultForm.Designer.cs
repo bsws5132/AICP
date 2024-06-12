@@ -40,7 +40,7 @@
             // pbxAlbumImage
             // 
             this.pbxAlbumImage.Image = global::SPOAICP.Properties.Resources.SAMPLEIMAGE2;
-            this.pbxAlbumImage.Location = new System.Drawing.Point(154, 45);
+            this.pbxAlbumImage.Location = new System.Drawing.Point(66, 148);
             this.pbxAlbumImage.Name = "pbxAlbumImage";
             this.pbxAlbumImage.Size = new System.Drawing.Size(300, 300);
             this.pbxAlbumImage.TabIndex = 4;
@@ -50,7 +50,7 @@
             // 
             this.AlbumInfoLabel.AutoSize = true;
             this.AlbumInfoLabel.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.AlbumInfoLabel.Location = new System.Drawing.Point(510, 45);
+            this.AlbumInfoLabel.Location = new System.Drawing.Point(420, 148);
             this.AlbumInfoLabel.Name = "AlbumInfoLabel";
             this.AlbumInfoLabel.Size = new System.Drawing.Size(180, 20);
             this.AlbumInfoLabel.TabIndex = 3;
@@ -59,9 +59,9 @@
             // AddFavoriteButton
             // 
             this.AddFavoriteButton.Font = new System.Drawing.Font("경기천년제목 Medium", 15F);
-            this.AddFavoriteButton.Location = new System.Drawing.Point(242, 351);
+            this.AddFavoriteButton.Location = new System.Drawing.Point(301, 148);
             this.AddFavoriteButton.Name = "AddFavoriteButton";
-            this.AddFavoriteButton.Size = new System.Drawing.Size(132, 70);
+            this.AddFavoriteButton.Size = new System.Drawing.Size(65, 52);
             this.AddFavoriteButton.TabIndex = 5;
             this.AddFavoriteButton.Text = "즐겨찾기 버튼";
             this.AddFavoriteButton.UseVisualStyleBackColor = true;
@@ -70,9 +70,9 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.메인화면으로돌아가기ToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(20, 60);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1036, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(996, 28);
             this.menuStrip1.TabIndex = 6;
             this.menuStrip1.Text = "menuStrip1";
             // 

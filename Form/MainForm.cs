@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 
 namespace SPOAICP
 {
-    public partial class MainForm : Form
+    public partial class MainForm : MetroFramework.Forms.MetroForm
     {
         private static readonly string clientId = "27840cda88d14f4dab5dd0f29ea781ff";
         private static readonly string clientSecret = "981e7dd893bf4c02b001cf5a44c32984";
